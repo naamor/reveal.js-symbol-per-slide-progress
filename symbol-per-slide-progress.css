@@ -1,0 +1,22 @@
+.reveal .navigation {
+  position: absolute;
+  top: 12px;
+}
+
+.reveal .navigation.left {
+  left: 12px;
+}
+
+.reveal .navigation.right {
+  right: 12px;
+}
+
+.reveal .navigation-list-element.horizontal-left {
+  float: left;
+  margin-right: 42px;
+}
+
+.reveal .navigation-list-element.horizontal-right {
+  float: left;
+  margin-left: 42px;
+}
