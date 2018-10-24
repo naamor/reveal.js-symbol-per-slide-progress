@@ -1,0 +1,8 @@
+[submodule "module/reveal.js"]
+	path = module/reveal.js
+	url = https://github.com/hakimel/reveal.js
+	branch = master
+[submodule "plugin/reveal.js-symbol-per-slide-progress"]
+	path = plugin/reveal.js-symbol-per-slide-progress
+	url = https://github.com/naamor/reveal.js-symbol-per-slide-progress
+	branch = master
